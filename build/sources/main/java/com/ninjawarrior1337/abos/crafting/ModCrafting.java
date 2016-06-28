@@ -17,7 +17,7 @@ public class ModCrafting
         GameRegistry.addShapelessRecipe(new ItemStack(ABOSItems.corn_syrup), new Object[] {new ItemStack(Items.POTIONITEM, 1, 0), new ItemStack(Items.SUGAR, 1, 0)});
         GameRegistry.addRecipe(new ItemStack(ABOSItems.graham_cracker), new Object[]{"   ", " W ", "WSW", 'W', new ItemStack(Items.WHEAT, 1, 0), 'S', new ItemStack(Items.SUGAR, 1, 0)});
         GameRegistry.addRecipe(new ItemStack(ABOSItems.chocholate), new Object[]{" C ", " C ", " C ", 'C', new ItemStack(Items.DYE, 1, 3)});
-        GameRegistry.addSmelting(Items.WHEAT_SEEDS, new ItemStack(ABOSItems.weed, 1, 0), 100.0F);
+        GameRegistry.addSmelting(Items.WHEAT_SEEDS, new ItemStack(ABOSItems.weed, 1, 0), 1000.0F);
     }
 
 }

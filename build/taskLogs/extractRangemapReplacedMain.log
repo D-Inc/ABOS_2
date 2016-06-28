@@ -8,7 +8,7 @@ startProcessing "com\ninjawarrior1337\abos\CommonProxy.java" md5: c005f4420f60dc
 Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\CommonProxy.java"
 
-startProcessing "com\ninjawarrior1337\abos\Reference.java" md5: f0746ff5f4615b76070dde45a181f499
+startProcessing "com\ninjawarrior1337\abos\Reference.java" md5: 72aad3b8a2a0b5ee0401b90f23e80db7
 Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\Reference.java"
 
@@ -16,17 +16,19 @@ startProcessing "com\ninjawarrior1337\abos\ServerProxy.java" md5: 197f5a3dbf75d6
 Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\ServerProxy.java"
 
-startProcessing "com\ninjawarrior1337\abos\abos.java" md5: fbb60cdacba1f5e77a21035504e70deb
-Cache Hit!
+startProcessing "com\ninjawarrior1337\abos\abos.java" md5: 5d1ac0e97fc8ad53084de729803db2bf
 endProcessing "com\ninjawarrior1337\abos\abos.java"
 
 startProcessing "com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java" md5: 326a2a1237c8d47aa14fccf33328984a
+Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java"
 
-startProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java" md5: 4b65a2d54fbcb035df6432e5fb033513
+startProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java" md5: 7cc3795a3cc58bd2588efd5486840e20
+Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java"
 
 startProcessing "com\ninjawarrior1337\abos\items\ABOSItems.java" md5: 10f2a1ae5e34fb0067838e291c4bd18e
+Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\items\ABOSItems.java"
 
 startProcessing "com\ninjawarrior1337\abos\items\blue_lightsaber.java" md5: 74ff78cdffbde8d21b6a3cd1f929a939
@@ -58,5 +60,6 @@ Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\items\red_lightsaber.java"
 
 startProcessing "com\ninjawarrior1337\abos\items\weed.java" md5: 87532ae67634ced979cbe11a188e70a8
+Cache Hit!
 endProcessing "com\ninjawarrior1337\abos\items\weed.java"
 

@@ -64,7 +64,7 @@ Class Start: com.ninjawarrior1337.abos.CommonProxy
 Class End  : com.ninjawarrior1337.abos.CommonProxy
 endProcessing "com\ninjawarrior1337\abos\CommonProxy.java"
 
-startProcessing "com\ninjawarrior1337\abos\Reference.java" md5: f0746ff5f4615b76070dde45a181f499
+startProcessing "com\ninjawarrior1337\abos\Reference.java" md5: 72aad3b8a2a0b5ee0401b90f23e80db7
 Cache Hit!
 @|com\ninjawarrior1337\abos\Reference.java|8|33|com.ninjawarrior1337.abos|package|com.ninjawarrior1337.abos|(file)
 Class Start: com.ninjawarrior1337.abos.Reference
@@ -75,15 +75,15 @@ Class Start: com.ninjawarrior1337.abos.Reference
    @|com\ninjawarrior1337\abos\Reference.java|132|138|String|class|java.lang.String
    @|com\ninjawarrior1337\abos\Reference.java|132|138|String|class|java.lang.String
    @|com\ninjawarrior1337\abos\Reference.java|139|146|VERSION|field|com.ninjawarrior1337.abos.Reference|VERSION|
-   @|com\ninjawarrior1337\abos\Reference.java|180|186|String|class|java.lang.String
-   @|com\ninjawarrior1337\abos\Reference.java|180|186|String|class|java.lang.String
-   @|com\ninjawarrior1337\abos\Reference.java|187|194|MODNAME|field|com.ninjawarrior1337.abos.Reference|MODNAME|
-   @|com\ninjawarrior1337\abos\Reference.java|229|235|String|class|java.lang.String
-   @|com\ninjawarrior1337\abos\Reference.java|229|235|String|class|java.lang.String
-   @|com\ninjawarrior1337\abos\Reference.java|236|254|CLIENT_PROXY_CLASS|field|com.ninjawarrior1337.abos.Reference|CLIENT_PROXY_CLASS|
-   @|com\ninjawarrior1337\abos\Reference.java|328|334|String|class|java.lang.String
-   @|com\ninjawarrior1337\abos\Reference.java|328|334|String|class|java.lang.String
-   @|com\ninjawarrior1337\abos\Reference.java|335|353|SERVER_PROXY_CLASS|field|com.ninjawarrior1337.abos.Reference|SERVER_PROXY_CLASS|
+   @|com\ninjawarrior1337\abos\Reference.java|181|187|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|181|187|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|188|195|MODNAME|field|com.ninjawarrior1337.abos.Reference|MODNAME|
+   @|com\ninjawarrior1337\abos\Reference.java|230|236|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|230|236|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|237|255|CLIENT_PROXY_CLASS|field|com.ninjawarrior1337.abos.Reference|CLIENT_PROXY_CLASS|
+   @|com\ninjawarrior1337\abos\Reference.java|329|335|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|329|335|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|336|354|SERVER_PROXY_CLASS|field|com.ninjawarrior1337.abos.Reference|SERVER_PROXY_CLASS|
 Class End  : com.ninjawarrior1337.abos.Reference
 endProcessing "com\ninjawarrior1337\abos\Reference.java"
 
@@ -120,8 +120,7 @@ Class Start: com.ninjawarrior1337.abos.ServerProxy
 Class End  : com.ninjawarrior1337.abos.ServerProxy
 endProcessing "com\ninjawarrior1337\abos\ServerProxy.java"
 
-startProcessing "com\ninjawarrior1337\abos\abos.java" md5: fbb60cdacba1f5e77a21035504e70deb
-Cache Hit!
+startProcessing "com\ninjawarrior1337\abos\abos.java" md5: 5d1ac0e97fc8ad53084de729803db2bf
 @|com\ninjawarrior1337\abos\abos.java|8|33|com.ninjawarrior1337.abos|package|com.ninjawarrior1337.abos|(file)
 Class Start: com.ninjawarrior1337.abos.abos
    @|com\ninjawarrior1337\abos\abos.java|542|545|Mod|class|net.minecraftforge.fml.common.Mod
@@ -131,58 +130,57 @@ Class Start: com.ninjawarrior1337.abos.abos
    @|com\ninjawarrior1337\abos\abos.java|568|577|Reference|class|com.ninjawarrior1337.abos.Reference
    @|com\ninjawarrior1337\abos\abos.java|578|585|MODNAME|field|com.ninjawarrior1337.abos.Reference|MODNAME
    @|com\ninjawarrior1337\abos\abos.java|587|594|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
-   @|com\ninjawarrior1337\abos\abos.java|597|606|Reference|class|com.ninjawarrior1337.abos.Reference
-   @|com\ninjawarrior1337\abos\abos.java|607|614|VERSION|field|com.ninjawarrior1337.abos.Reference|VERSION
-   @|com\ninjawarrior1337\abos\abos.java|629|633|abos|class|com.ninjawarrior1337.abos.abos
-   @|com\ninjawarrior1337\abos\abos.java|775|786|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
-   @|com\ninjawarrior1337\abos\abos.java|642|652|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
-   @|com\ninjawarrior1337\abos\abos.java|653|663|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
-   @|com\ninjawarrior1337\abos\abos.java|705|715|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
-   @|com\ninjawarrior1337\abos\abos.java|775|786|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
-   @|com\ninjawarrior1337\abos\abos.java|787|792|proxy|field|com.ninjawarrior1337.abos.abos|proxy|
+   @|com\ninjawarrior1337\abos\abos.java|618|622|abos|class|com.ninjawarrior1337.abos.abos
+   @|com\ninjawarrior1337\abos\abos.java|764|775|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
+   @|com\ninjawarrior1337\abos\abos.java|631|641|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\ninjawarrior1337\abos\abos.java|642|652|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\ninjawarrior1337\abos\abos.java|694|704|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\ninjawarrior1337\abos\abos.java|764|775|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
+   @|com\ninjawarrior1337\abos\abos.java|776|781|proxy|field|com.ninjawarrior1337.abos.abos|proxy|
    Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|863|864|e|param|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
-      @|com\ninjawarrior1337\abos\abos.java|800|812|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
-      @|com\ninjawarrior1337\abos\abos.java|829|836|preInit|method|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|837|862|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
-      @|com\ninjawarrior1337\abos\abos.java|880|886|System|class|java.lang.System
-      @|com\ninjawarrior1337\abos\abos.java|887|890|out|field|java.lang.System|out
-      @|com\ninjawarrior1337\abos\abos.java|891|898|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
-      @|com\ninjawarrior1337\abos\abos.java|934|939|proxy|field|com.ninjawarrior1337.abos.abos|proxy
-      @|com\ninjawarrior1337\abos\abos.java|940|947|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|948|949|e|param|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|852|853|e|param|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|789|801|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ninjawarrior1337\abos\abos.java|818|825|preInit|method|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|826|851|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\ninjawarrior1337\abos\abos.java|869|875|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|876|879|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|880|887|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|923|928|proxy|field|com.ninjawarrior1337.abos.abos|proxy
+      @|com\ninjawarrior1337\abos\abos.java|929|936|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|937|938|e|param|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
    Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
    Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|1020|1021|e|param|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
-      @|com\ninjawarrior1337\abos\abos.java|963|975|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
-      @|com\ninjawarrior1337\abos\abos.java|992|996|init|method|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|997|1019|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
-      @|com\ninjawarrior1337\abos\abos.java|1037|1043|System|class|java.lang.System
-      @|com\ninjawarrior1337\abos\abos.java|1044|1047|out|field|java.lang.System|out
-      @|com\ninjawarrior1337\abos\abos.java|1048|1055|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
-      @|com\ninjawarrior1337\abos\abos.java|1087|1092|proxy|field|com.ninjawarrior1337.abos.abos|proxy
-      @|com\ninjawarrior1337\abos\abos.java|1093|1097|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|1098|1099|e|param|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|1009|1010|e|param|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|952|964|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ninjawarrior1337\abos\abos.java|981|985|init|method|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|986|1008|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\ninjawarrior1337\abos\abos.java|1026|1032|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|1033|1036|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|1037|1044|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|1076|1081|proxy|field|com.ninjawarrior1337.abos.abos|proxy
+      @|com\ninjawarrior1337\abos\abos.java|1082|1086|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1087|1088|e|param|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
    Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
    Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|1178|1179|e|param|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
-      @|com\ninjawarrior1337\abos\abos.java|1113|1125|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
-      @|com\ninjawarrior1337\abos\abos.java|1142|1150|postInit|method|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|1151|1177|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
-      @|com\ninjawarrior1337\abos\abos.java|1195|1201|System|class|java.lang.System
-      @|com\ninjawarrior1337\abos\abos.java|1202|1205|out|field|java.lang.System|out
-      @|com\ninjawarrior1337\abos\abos.java|1206|1213|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
-      @|com\ninjawarrior1337\abos\abos.java|1245|1251|System|class|java.lang.System
-      @|com\ninjawarrior1337\abos\abos.java|1252|1255|out|field|java.lang.System|out
-      @|com\ninjawarrior1337\abos\abos.java|1256|1263|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
-      @|com\ninjawarrior1337\abos\abos.java|1289|1294|proxy|field|com.ninjawarrior1337.abos.abos|proxy
-      @|com\ninjawarrior1337\abos\abos.java|1295|1303|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
-      @|com\ninjawarrior1337\abos\abos.java|1304|1305|e|param|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|1167|1168|e|param|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|1102|1114|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ninjawarrior1337\abos\abos.java|1131|1139|postInit|method|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1140|1166|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|com\ninjawarrior1337\abos\abos.java|1184|1190|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|1191|1194|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|1195|1202|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|1234|1240|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|1241|1244|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|1245|1252|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|1278|1283|proxy|field|com.ninjawarrior1337.abos.abos|proxy
+      @|com\ninjawarrior1337\abos\abos.java|1284|1292|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1293|1294|e|param|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
    Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
 Class End  : com.ninjawarrior1337.abos.abos
 endProcessing "com\ninjawarrior1337\abos\abos.java"
 
 startProcessing "com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java" md5: 326a2a1237c8d47aa14fccf33328984a
+Cache Hit!
 @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|8|53|com.ninjawarrior1337.abos.client.render.items|package|com.ninjawarrior1337.abos.client.render.items|(file)
 Class Start: com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
    @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|313|331|ItemRenderRegister|class|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
@@ -237,7 +235,8 @@ Class Start: com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
 Class End  : com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
 endProcessing "com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java"
 
-startProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java" md5: 4b65a2d54fbcb035df6432e5fb033513
+startProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java" md5: 7cc3795a3cc58bd2588efd5486840e20
+Cache Hit!
 @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|8|42|com.ninjawarrior1337.abos.crafting|package|com.ninjawarrior1337.abos.crafting|(file)
 Class Start: com.ninjawarrior1337.abos.crafting.ModCrafting
    @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|305|316|ModCrafting|class|com.ninjawarrior1337.abos.crafting.ModCrafting
@@ -342,6 +341,7 @@ Class End  : com.ninjawarrior1337.abos.crafting.ModCrafting
 endProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java"
 
 startProcessing "com\ninjawarrior1337\abos\items\ABOSItems.java" md5: 10f2a1ae5e34fb0067838e291c4bd18e
+Cache Hit!
 @|com\ninjawarrior1337\abos\items\ABOSItems.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
 Class Start: com.ninjawarrior1337.abos.items.ABOSItems
    @|com\ninjawarrior1337\abos\items\ABOSItems.java|251|260|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
@@ -598,6 +598,7 @@ Class End  : com.ninjawarrior1337.abos.items.red_lightsaber
 endProcessing "com\ninjawarrior1337\abos\items\red_lightsaber.java"
 
 startProcessing "com\ninjawarrior1337\abos\items\weed.java" md5: 87532ae67634ced979cbe11a188e70a8
+Cache Hit!
 @|com\ninjawarrior1337\abos\items\weed.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
 Class Start: com.ninjawarrior1337.abos.items.weed
    @|com\ninjawarrior1337\abos\items\weed.java|134|138|weed|class|com.ninjawarrior1337.abos.items.weed
