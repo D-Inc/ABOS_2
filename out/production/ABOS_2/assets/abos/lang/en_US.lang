@@ -1,0 +1,15 @@
+
+language.name=English
+language.region=US
+language.code=en_US
+
+item.blue_lightsaber.name=Blue Lightsaber
+item.green_lightsaber.name=Green Lightsaber
+item.red_lightsaber.name=Red Lightsaber
+item.graham_cracker.name=Graham Cracker
+itemGroup.ABOS=ABOS Items
+item.chocholate.name=Chocolate Bar
+item.peppe.name=Meme
+item.corn_syrup.name=Corn Syrup(High Fructose)
+item.weed.name=Weed
+

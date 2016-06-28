@@ -1,0 +1,620 @@
+Symbol range map extraction starting
+Processing 16 files
+startProcessing "com\ninjawarrior1337\abos\ClientProxy.java" md5: 36674ebe16921493fce027bd04a0b8e5
+Cache Hit!
+@|com\ninjawarrior1337\abos\ClientProxy.java|8|33|com.ninjawarrior1337.abos|package|com.ninjawarrior1337.abos|(file)
+Class Start: com.ninjawarrior1337.abos.ClientProxy
+   @|com\ninjawarrior1337\abos\ClientProxy.java|331|342|ClientProxy|class|com.ninjawarrior1337.abos.ClientProxy
+   @|com\ninjawarrior1337\abos\ClientProxy.java|351|362|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|429|430|e|param|com.ninjawarrior1337.abos.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\ClientProxy.java|370|378|Override|class|java.lang.Override
+      @|com\ninjawarrior1337\abos\ClientProxy.java|395|402|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|403|428|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\ninjawarrior1337\abos\ClientProxy.java|452|459|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|460|461|e|param|com.ninjawarrior1337.abos.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|529|530|e|param|com.ninjawarrior1337.abos.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\ClientProxy.java|476|484|Override|class|java.lang.Override
+      @|com\ninjawarrior1337\abos\ClientProxy.java|501|505|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|506|528|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\ninjawarrior1337\abos\ClientProxy.java|552|556|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|557|558|e|param|com.ninjawarrior1337.abos.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\ClientProxy.java|569|587|ItemRenderRegister|class|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
+      @|com\ninjawarrior1337\abos\ClientProxy.java|588|608|registerItemRenderer|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|registerItemRenderer|()V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|685|686|e|param|com.ninjawarrior1337.abos.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\ClientProxy.java|624|632|Override|class|java.lang.Override
+      @|com\ninjawarrior1337\abos\ClientProxy.java|649|657|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|658|684|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|com\ninjawarrior1337\abos\ClientProxy.java|708|716|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ClientProxy.java|717|718|e|param|com.ninjawarrior1337.abos.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.ninjawarrior1337.abos.ClientProxy
+endProcessing "com\ninjawarrior1337\abos\ClientProxy.java"
+
+startProcessing "com\ninjawarrior1337\abos\CommonProxy.java" md5: c005f4420f60dc176eeb704b9b6ba151
+Cache Hit!
+@|com\ninjawarrior1337\abos\CommonProxy.java|8|33|com.ninjawarrior1337.abos|package|com.ninjawarrior1337.abos|(file)
+Class Start: com.ninjawarrior1337.abos.CommonProxy
+   @|com\ninjawarrior1337\abos\CommonProxy.java|363|374|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\CommonProxy.java|427|428|e|param|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\CommonProxy.java|393|400|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\CommonProxy.java|401|426|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\ninjawarrior1337\abos\CommonProxy.java|444|453|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\CommonProxy.java|454|465|createItems|method|com.ninjawarrior1337.abos.items.ABOSItems|createItems|()V
+      @|com\ninjawarrior1337\abos\CommonProxy.java|477|486|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\CommonProxy.java|487|501|setCreativeTab|method|com.ninjawarrior1337.abos.items.ABOSItems|setCreativeTab|()V
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\CommonProxy.java|555|556|e|param|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\CommonProxy.java|527|531|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\CommonProxy.java|532|554|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\ninjawarrior1337\abos\CommonProxy.java|572|583|ModCrafting|class|com.ninjawarrior1337.abos.crafting.ModCrafting
+      @|com\ninjawarrior1337\abos\CommonProxy.java|584|596|initCrafting|method|com.ninjawarrior1337.abos.crafting.ModCrafting|initCrafting|()V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\CommonProxy.java|658|659|e|param|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\CommonProxy.java|622|630|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\CommonProxy.java|631|657|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.ninjawarrior1337.abos.CommonProxy
+endProcessing "com\ninjawarrior1337\abos\CommonProxy.java"
+
+startProcessing "com\ninjawarrior1337\abos\Reference.java" md5: f0746ff5f4615b76070dde45a181f499
+Cache Hit!
+@|com\ninjawarrior1337\abos\Reference.java|8|33|com.ninjawarrior1337.abos|package|com.ninjawarrior1337.abos|(file)
+Class Start: com.ninjawarrior1337.abos.Reference
+   @|com\ninjawarrior1337\abos\Reference.java|49|58|Reference|class|com.ninjawarrior1337.abos.Reference
+   @|com\ninjawarrior1337\abos\Reference.java|85|91|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|85|91|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|92|97|MODID|field|com.ninjawarrior1337.abos.Reference|MODID|
+   @|com\ninjawarrior1337\abos\Reference.java|132|138|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|132|138|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|139|146|VERSION|field|com.ninjawarrior1337.abos.Reference|VERSION|
+   @|com\ninjawarrior1337\abos\Reference.java|180|186|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|180|186|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|187|194|MODNAME|field|com.ninjawarrior1337.abos.Reference|MODNAME|
+   @|com\ninjawarrior1337\abos\Reference.java|229|235|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|229|235|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|236|254|CLIENT_PROXY_CLASS|field|com.ninjawarrior1337.abos.Reference|CLIENT_PROXY_CLASS|
+   @|com\ninjawarrior1337\abos\Reference.java|328|334|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|328|334|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\Reference.java|335|353|SERVER_PROXY_CLASS|field|com.ninjawarrior1337.abos.Reference|SERVER_PROXY_CLASS|
+Class End  : com.ninjawarrior1337.abos.Reference
+endProcessing "com\ninjawarrior1337\abos\Reference.java"
+
+startProcessing "com\ninjawarrior1337\abos\ServerProxy.java" md5: 197f5a3dbf75d6b47992e575e4fb0240
+Cache Hit!
+@|com\ninjawarrior1337\abos\ServerProxy.java|8|33|com.ninjawarrior1337.abos|package|com.ninjawarrior1337.abos|(file)
+Class Start: com.ninjawarrior1337.abos.ServerProxy
+   @|com\ninjawarrior1337\abos\ServerProxy.java|258|269|ServerProxy|class|com.ninjawarrior1337.abos.ServerProxy
+   @|com\ninjawarrior1337\abos\ServerProxy.java|278|289|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|356|357|e|param|com.ninjawarrior1337.abos.ServerProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\ServerProxy.java|297|305|Override|class|java.lang.Override
+      @|com\ninjawarrior1337\abos\ServerProxy.java|322|329|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|330|355|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\ninjawarrior1337\abos\ServerProxy.java|379|386|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|387|388|e|param|com.ninjawarrior1337.abos.ServerProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|456|457|e|param|com.ninjawarrior1337.abos.ServerProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\ServerProxy.java|403|411|Override|class|java.lang.Override
+      @|com\ninjawarrior1337\abos\ServerProxy.java|428|432|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|433|455|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\ninjawarrior1337\abos\ServerProxy.java|479|483|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|484|485|e|param|com.ninjawarrior1337.abos.ServerProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|561|562|e|param|com.ninjawarrior1337.abos.ServerProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\ServerProxy.java|500|508|Override|class|java.lang.Override
+      @|com\ninjawarrior1337\abos\ServerProxy.java|525|533|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|534|560|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|com\ninjawarrior1337\abos\ServerProxy.java|584|592|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\ServerProxy.java|593|594|e|param|com.ninjawarrior1337.abos.ServerProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.ninjawarrior1337.abos.ServerProxy
+endProcessing "com\ninjawarrior1337\abos\ServerProxy.java"
+
+startProcessing "com\ninjawarrior1337\abos\abos.java" md5: fbb60cdacba1f5e77a21035504e70deb
+Cache Hit!
+@|com\ninjawarrior1337\abos\abos.java|8|33|com.ninjawarrior1337.abos|package|com.ninjawarrior1337.abos|(file)
+Class Start: com.ninjawarrior1337.abos.abos
+   @|com\ninjawarrior1337\abos\abos.java|542|545|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\ninjawarrior1337\abos\abos.java|546|551|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\ninjawarrior1337\abos\abos.java|554|559|MODID|field|com.ninjawarrior1337.abos.Reference|MODID
+   @|com\ninjawarrior1337\abos\abos.java|561|565|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\ninjawarrior1337\abos\abos.java|568|577|Reference|class|com.ninjawarrior1337.abos.Reference
+   @|com\ninjawarrior1337\abos\abos.java|578|585|MODNAME|field|com.ninjawarrior1337.abos.Reference|MODNAME
+   @|com\ninjawarrior1337\abos\abos.java|587|594|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\ninjawarrior1337\abos\abos.java|597|606|Reference|class|com.ninjawarrior1337.abos.Reference
+   @|com\ninjawarrior1337\abos\abos.java|607|614|VERSION|field|com.ninjawarrior1337.abos.Reference|VERSION
+   @|com\ninjawarrior1337\abos\abos.java|629|633|abos|class|com.ninjawarrior1337.abos.abos
+   @|com\ninjawarrior1337\abos\abos.java|775|786|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
+   @|com\ninjawarrior1337\abos\abos.java|642|652|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\ninjawarrior1337\abos\abos.java|653|663|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\ninjawarrior1337\abos\abos.java|705|715|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\ninjawarrior1337\abos\abos.java|775|786|CommonProxy|class|com.ninjawarrior1337.abos.CommonProxy
+   @|com\ninjawarrior1337\abos\abos.java|787|792|proxy|field|com.ninjawarrior1337.abos.abos|proxy|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|863|864|e|param|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|800|812|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ninjawarrior1337\abos\abos.java|829|836|preInit|method|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|837|862|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\ninjawarrior1337\abos\abos.java|880|886|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|887|890|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|891|898|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|934|939|proxy|field|com.ninjawarrior1337.abos.abos|proxy
+      @|com\ninjawarrior1337\abos\abos.java|940|947|preInit|method|com.ninjawarrior1337.abos.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|948|949|e|param|com.ninjawarrior1337.abos.abos|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1020|1021|e|param|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|963|975|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ninjawarrior1337\abos\abos.java|992|996|init|method|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|997|1019|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\ninjawarrior1337\abos\abos.java|1037|1043|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|1044|1047|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|1048|1055|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|1087|1092|proxy|field|com.ninjawarrior1337.abos.abos|proxy
+      @|com\ninjawarrior1337\abos\abos.java|1093|1097|init|method|com.ninjawarrior1337.abos.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1098|1099|e|param|com.ninjawarrior1337.abos.abos|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1178|1179|e|param|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|com\ninjawarrior1337\abos\abos.java|1113|1125|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ninjawarrior1337\abos\abos.java|1142|1150|postInit|method|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1151|1177|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|com\ninjawarrior1337\abos\abos.java|1195|1201|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|1202|1205|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|1206|1213|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|1245|1251|System|class|java.lang.System
+      @|com\ninjawarrior1337\abos\abos.java|1252|1255|out|field|java.lang.System|out
+      @|com\ninjawarrior1337\abos\abos.java|1256|1263|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\abos.java|1289|1294|proxy|field|com.ninjawarrior1337.abos.abos|proxy
+      @|com\ninjawarrior1337\abos\abos.java|1295|1303|postInit|method|com.ninjawarrior1337.abos.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ninjawarrior1337\abos\abos.java|1304|1305|e|param|com.ninjawarrior1337.abos.abos|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.ninjawarrior1337.abos.abos
+endProcessing "com\ninjawarrior1337\abos\abos.java"
+
+startProcessing "com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java" md5: 326a2a1237c8d47aa14fccf33328984a
+@|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|8|53|com.ninjawarrior1337.abos.client.render.items|package|com.ninjawarrior1337.abos.client.render.items|(file)
+Class Start: com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
+   @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|313|331|ItemRenderRegister|class|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
+   Method Start: registerItemRenderer()V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|358|378|registerItemRenderer|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|registerItemRenderer|()V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|395|398|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|399|408|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|409|424|blue_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|blue_lightsaber
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|435|438|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|439|448|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|449|465|green_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|green_lightsaber
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|476|479|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|480|489|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|490|504|red_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|red_lightsaber
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|515|518|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|519|528|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|529|534|peppe|field|com.ninjawarrior1337.abos.items.ABOSItems|peppe
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|545|548|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|549|558|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|559|569|corn_syrup|field|com.ninjawarrior1337.abos.items.ABOSItems|corn_syrup
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|580|583|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|584|593|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|594|608|graham_cracker|field|com.ninjawarrior1337.abos.items.ABOSItems|graham_cracker
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|619|622|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|623|632|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|633|643|chocholate|field|com.ninjawarrior1337.abos.items.ABOSItems|chocholate
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|654|657|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|658|667|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|668|672|weed|field|com.ninjawarrior1337.abos.items.ABOSItems|weed
+   Method End: registerItemRenderer()V
+   @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|700|706|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|700|706|String|class|java.lang.String
+   @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|707|712|modid|field|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|modid|
+   @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|715|724|Reference|class|com.ninjawarrior1337.abos.Reference
+   @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|725|730|MODID|field|com.ninjawarrior1337.abos.Reference|MODID
+   Method Start: reg(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|765|769|item|param|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V|item|0
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|756|759|reg|method|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|760|764|Item|class|net.minecraft.item.Item
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|785|794|Minecraft|class|net.minecraft.client.Minecraft
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|795|807|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|810|823|getRenderItem|method|net.minecraft.client.Minecraft|getRenderItem|()Lnet/minecraft/client/renderer/RenderItem;
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|826|844|getItemModelMesher|method|net.minecraft.client.renderer.RenderItem|getItemModelMesher|()Lnet/minecraft/client/renderer/ItemModelMesher;
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|864|872|register|method|net.minecraft.client.renderer.ItemModelMesher|register|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|873|877|item|param|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V|item|0
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|886|907|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|908|913|modid|field|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|modid
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|922|926|item|param|com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister|reg|(Lnet/minecraft/item/Item;)V|item|0
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|927|945|getUnlocalizedName|method|net.minecraft.item.Item|getUnlocalizedName|()Ljava/lang/String;
+      @|com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java|948|957|substring|method|java.lang.String|substring|(I)Ljava/lang/String;
+   Method End: reg(Lnet/minecraft/item/Item;)V
+Class End  : com.ninjawarrior1337.abos.client.render.items.ItemRenderRegister
+endProcessing "com\ninjawarrior1337\abos\client\render\items\ItemRenderRegister.java"
+
+startProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java" md5: 4b65a2d54fbcb035df6432e5fb033513
+@|com\ninjawarrior1337\abos\crafting\ModCrafting.java|8|42|com.ninjawarrior1337.abos.crafting|package|com.ninjawarrior1337.abos.crafting|(file)
+Class Start: com.ninjawarrior1337.abos.crafting.ModCrafting
+   @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|305|316|ModCrafting|class|com.ninjawarrior1337.abos.crafting.ModCrafting
+   Method Start: initCrafting()V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|342|354|initCrafting|method|com.ninjawarrior1337.abos.crafting.ModCrafting|initCrafting|()V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|371|383|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|384|393|addRecipe|method|net.minecraftforge.fml.common.registry.GameRegistry|addRecipe|(Lnet/minecraft/item/ItemStack;[Ljava/lang/Object;)V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|398|407|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|408|417|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|418|433|blue_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|blue_lightsaber
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|440|446|Object|class|java.lang.Object
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|480|489|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|490|496|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|497|510|STAINED_GLASS|field|net.minecraft.init.Blocks|STAINED_GLASS
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|528|537|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|538|544|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|545|566|STAINED_HARDENED_CLAY|field|net.minecraft.init.Blocks|STAINED_HARDENED_CLAY
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|584|593|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|594|600|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|601|610|IRON_BARS|field|net.minecraft.init.Blocks|IRON_BARS
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|625|634|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|635|640|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|641|648|DIAMOND|field|net.minecraft.init.Items|DIAMOND
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|664|676|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|677|686|addRecipe|method|net.minecraftforge.fml.common.registry.GameRegistry|addRecipe|(Lnet/minecraft/item/ItemStack;[Ljava/lang/Object;)V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|691|700|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|701|710|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|711|727|green_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|green_lightsaber
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|734|740|Object|class|java.lang.Object
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|774|783|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|784|790|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|791|804|STAINED_GLASS|field|net.minecraft.init.Blocks|STAINED_GLASS
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|822|831|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|832|838|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|839|860|STAINED_HARDENED_CLAY|field|net.minecraft.init.Blocks|STAINED_HARDENED_CLAY
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|878|887|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|888|894|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|895|904|IRON_BARS|field|net.minecraft.init.Blocks|IRON_BARS
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|919|928|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|929|934|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|935|942|DIAMOND|field|net.minecraft.init.Items|DIAMOND
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|958|970|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|971|980|addRecipe|method|net.minecraftforge.fml.common.registry.GameRegistry|addRecipe|(Lnet/minecraft/item/ItemStack;[Ljava/lang/Object;)V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|985|994|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|995|1004|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1005|1019|red_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|red_lightsaber
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1026|1032|Object|class|java.lang.Object
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1066|1075|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1076|1082|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1083|1096|STAINED_GLASS|field|net.minecraft.init.Blocks|STAINED_GLASS
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1115|1124|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1125|1131|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1132|1153|STAINED_HARDENED_CLAY|field|net.minecraft.init.Blocks|STAINED_HARDENED_CLAY
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1172|1181|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1182|1188|Blocks|class|net.minecraft.init.Blocks
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1189|1198|IRON_BARS|field|net.minecraft.init.Blocks|IRON_BARS
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1213|1222|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1223|1228|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1229|1236|DIAMOND|field|net.minecraft.init.Items|DIAMOND
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1252|1264|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1265|1283|addShapelessRecipe|method|net.minecraftforge.fml.common.registry.GameRegistry|addShapelessRecipe|(Lnet/minecraft/item/ItemStack;[Ljava/lang/Object;)V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1288|1297|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1298|1307|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1308|1318|corn_syrup|field|com.ninjawarrior1337.abos.items.ABOSItems|corn_syrup
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1325|1331|Object|class|java.lang.Object
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1339|1348|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1349|1354|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1355|1365|POTIONITEM|field|net.minecraft.init.Items|POTIONITEM
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1378|1387|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1388|1393|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1394|1399|SUGAR|field|net.minecraft.init.Items|SUGAR
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1418|1430|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1431|1440|addRecipe|method|net.minecraftforge.fml.common.registry.GameRegistry|addRecipe|(Lnet/minecraft/item/ItemStack;[Ljava/lang/Object;)V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1445|1454|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1455|1464|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1465|1479|graham_cracker|field|com.ninjawarrior1337.abos.items.ABOSItems|graham_cracker
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1486|1492|Object|class|java.lang.Object
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1525|1534|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1535|1540|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1541|1546|WHEAT|field|net.minecraft.init.Items|WHEAT
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1564|1573|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1574|1579|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1580|1585|SUGAR|field|net.minecraft.init.Items|SUGAR
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1604|1616|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1617|1626|addRecipe|method|net.minecraftforge.fml.common.registry.GameRegistry|addRecipe|(Lnet/minecraft/item/ItemStack;[Ljava/lang/Object;)V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1631|1640|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1641|1650|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1651|1661|chocholate|field|com.ninjawarrior1337.abos.items.ABOSItems|chocholate
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1668|1674|Object|class|java.lang.Object
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1707|1716|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1717|1722|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1723|1726|DYE|field|net.minecraft.init.Items|DYE
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1745|1757|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1758|1769|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1770|1775|Items|class|net.minecraft.init.Items
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1776|1787|WHEAT_SEEDS|field|net.minecraft.init.Items|WHEAT_SEEDS
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1793|1802|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1803|1812|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\crafting\ModCrafting.java|1813|1817|weed|field|com.ninjawarrior1337.abos.items.ABOSItems|weed
+   Method End: initCrafting()V
+Class End  : com.ninjawarrior1337.abos.crafting.ModCrafting
+endProcessing "com\ninjawarrior1337\abos\crafting\ModCrafting.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\ABOSItems.java" md5: 10f2a1ae5e34fb0067838e291c4bd18e
+@|com\ninjawarrior1337\abos\items\ABOSItems.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.ABOSItems
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|251|260|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|281|298|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|281|298|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|299|309|LIGHTSABER|field|com.ninjawarrior1337.abos.items.ABOSItems|LIGHTSABER|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|312|322|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|323|338|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|401|405|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|401|405|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|406|421|blue_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|blue_lightsaber|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|441|445|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|441|445|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|446|462|green_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|green_lightsaber|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|482|486|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|482|486|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|487|501|red_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|red_lightsaber|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|521|525|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|521|525|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|526|531|peppe|field|com.ninjawarrior1337.abos.items.ABOSItems|peppe|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|551|555|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|551|555|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|556|566|corn_syrup|field|com.ninjawarrior1337.abos.items.ABOSItems|corn_syrup|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|586|590|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|586|590|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|591|605|graham_cracker|field|com.ninjawarrior1337.abos.items.ABOSItems|graham_cracker|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|625|629|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|625|629|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|630|640|chocholate|field|com.ninjawarrior1337.abos.items.ABOSItems|chocholate|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|660|664|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|660|664|Item|class|net.minecraft.item.Item
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|665|669|weed|field|com.ninjawarrior1337.abos.items.ABOSItems|weed|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|696|708|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|696|708|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|709|716|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS|
+   @|com\ninjawarrior1337\abos\items\ABOSItems.java|723|735|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   Anon Class Start: com.ninjawarrior1337.abos.items.ABOSItems$1
+      Method Start: getTabIconItem()Lnet/minecraft/item/Item;
+         @|com\ninjawarrior1337\abos\items\ABOSItems.java|759|767|Override|class|java.lang.Override
+         @|com\ninjawarrior1337\abos\items\ABOSItems.java|783|787|Item|class|net.minecraft.item.Item
+         @|com\ninjawarrior1337\abos\items\ABOSItems.java|788|802|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/Item;
+         @|com\ninjawarrior1337\abos\items\ABOSItems.java|834|843|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+         @|com\ninjawarrior1337\abos\items\ABOSItems.java|844|849|peppe|field|com.ninjawarrior1337.abos.items.ABOSItems|peppe
+      Method End: getTabIconItem()Lnet/minecraft/item/Item;
+   Anon Class End: com.ninjawarrior1337.abos.items.ABOSItems$1
+   Method Start: createItems()V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|893|904|createItems|method|com.ninjawarrior1337.abos.items.ABOSItems|createItems|()V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|921|933|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|934|946|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|947|962|blue_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|blue_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|969|984|blue_lightsaber|class|com.ninjawarrior1337.abos.items.blue_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1004|1014|LIGHTSABER|field|com.ninjawarrior1337.abos.items.ABOSItems|LIGHTSABER
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1045|1057|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1058|1070|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1071|1087|green_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|green_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1094|1110|green_lightsaber|class|com.ninjawarrior1337.abos.items.green_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1131|1141|LIGHTSABER|field|com.ninjawarrior1337.abos.items.ABOSItems|LIGHTSABER
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1173|1185|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1186|1198|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1199|1213|red_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|red_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1220|1234|red_lightsaber|class|com.ninjawarrior1337.abos.items.red_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1253|1263|LIGHTSABER|field|com.ninjawarrior1337.abos.items.ABOSItems|LIGHTSABER
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1293|1305|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1306|1318|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1319|1324|peppe|field|com.ninjawarrior1337.abos.items.ABOSItems|peppe
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1331|1336|peppe|class|com.ninjawarrior1337.abos.items.peppe
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1365|1377|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1378|1390|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1391|1401|corn_syrup|field|com.ninjawarrior1337.abos.items.ABOSItems|corn_syrup
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1408|1418|corn_syrup|class|com.ninjawarrior1337.abos.items.corn_syrup
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1457|1469|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1470|1482|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1483|1497|graham_cracker|field|com.ninjawarrior1337.abos.items.ABOSItems|graham_cracker
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1504|1518|graham_cracker|class|com.ninjawarrior1337.abos.items.graham_cracker
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1553|1568|setAlwaysEdible|method|net.minecraft.item.ItemFood|setAlwaysEdible|()Lnet/minecraft/item/ItemFood;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1599|1611|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1612|1624|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1625|1635|chocholate|field|com.ninjawarrior1337.abos.items.ABOSItems|chocholate
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1642|1652|chocholate|class|com.ninjawarrior1337.abos.items.chocholate
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1682|1697|setAlwaysEdible|method|net.minecraft.item.ItemFood|setAlwaysEdible|()Lnet/minecraft/item/ItemFood;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1724|1736|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1737|1749|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1750|1754|weed|field|com.ninjawarrior1337.abos.items.ABOSItems|weed
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1761|1765|weed|class|com.ninjawarrior1337.abos.items.weed
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1789|1804|setAlwaysEdible|method|net.minecraft.item.ItemFood|setAlwaysEdible|()Lnet/minecraft/item/ItemFood;
+   Method End: createItems()V
+   Method Start: setCreativeTab()V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1847|1861|setCreativeTab|method|com.ninjawarrior1337.abos.items.ABOSItems|setCreativeTab|()V
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1878|1893|blue_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|blue_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1894|1908|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1909|1918|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1919|1926|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1937|1953|green_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|green_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1954|1968|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1969|1978|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1979|1986|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|1997|2011|red_lightsaber|field|com.ninjawarrior1337.abos.items.ABOSItems|red_lightsaber
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2012|2026|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2027|2036|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2037|2044|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2055|2065|corn_syrup|field|com.ninjawarrior1337.abos.items.ABOSItems|corn_syrup
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2066|2080|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2081|2090|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2091|2098|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2109|2123|graham_cracker|field|com.ninjawarrior1337.abos.items.ABOSItems|graham_cracker
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2124|2138|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2139|2148|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2149|2156|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2167|2177|chocholate|field|com.ninjawarrior1337.abos.items.ABOSItems|chocholate
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2178|2192|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2193|2202|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2203|2210|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2221|2225|weed|field|com.ninjawarrior1337.abos.items.ABOSItems|weed
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2226|2240|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2241|2250|ABOSItems|class|com.ninjawarrior1337.abos.items.ABOSItems
+      @|com\ninjawarrior1337\abos\items\ABOSItems.java|2251|2258|tabABOS|field|com.ninjawarrior1337.abos.items.ABOSItems|tabABOS
+   Method End: setCreativeTab()V
+Class End  : com.ninjawarrior1337.abos.items.ABOSItems
+endProcessing "com\ninjawarrior1337\abos\items\ABOSItems.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\blue_lightsaber.java" md5: 74ff78cdffbde8d21b6a3cd1f929a939
+Cache Hit!
+@|com\ninjawarrior1337\abos\items\blue_lightsaber.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.blue_lightsaber
+   @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|94|109|blue_lightsaber|class|com.ninjawarrior1337.abos.items.blue_lightsaber
+   @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|118|127|ItemSword|class|net.minecraft.item.ItemSword
+   Method Start: blue_lightsaber(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|164|178|unloalizedname|param|com.ninjawarrior1337.abos.items.blue_lightsaber|blue_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|unloalizedname|0
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|193|201|material|param|com.ninjawarrior1337.abos.items.blue_lightsaber|blue_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|141|156|blue_lightsaber|method|com.ninjawarrior1337.abos.items.blue_lightsaber|blue_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|157|163|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|180|192|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|223|231|material|param|com.ninjawarrior1337.abos.items.blue_lightsaber|blue_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|247|265|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\blue_lightsaber.java|266|280|unloalizedname|param|com.ninjawarrior1337.abos.items.blue_lightsaber|blue_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|unloalizedname|0
+   Method End: blue_lightsaber(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : com.ninjawarrior1337.abos.items.blue_lightsaber
+endProcessing "com\ninjawarrior1337\abos\items\blue_lightsaber.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\chocholate.java" md5: 1527956e4429e6ae8bc40b5ef3514711
+Cache Hit!
+@|com\ninjawarrior1337\abos\items\chocholate.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.chocholate
+   @|com\ninjawarrior1337\abos\items\chocholate.java|134|144|chocholate|class|com.ninjawarrior1337.abos.items.chocholate
+   @|com\ninjawarrior1337\abos\items\chocholate.java|153|161|ItemFood|class|net.minecraft.item.ItemFood
+   Method Start: chocholate(Ljava/lang/String;IFZ)V
+      @|com\ninjawarrior1337\abos\items\chocholate.java|193|208|unlocalizedname|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|unlocalizedname|0
+      @|com\ninjawarrior1337\abos\items\chocholate.java|214|220|amount|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|amount|1
+      @|com\ninjawarrior1337\abos\items\chocholate.java|228|238|saturation|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com\ninjawarrior1337\abos\items\chocholate.java|248|258|isWolfFood|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|isWolfFood|3
+      @|com\ninjawarrior1337\abos\items\chocholate.java|175|185|chocholate|method|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V
+      @|com\ninjawarrior1337\abos\items\chocholate.java|186|192|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\chocholate.java|280|286|amount|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|amount|1
+      @|com\ninjawarrior1337\abos\items\chocholate.java|288|298|saturation|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com\ninjawarrior1337\abos\items\chocholate.java|300|310|isWolfFood|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|isWolfFood|3
+      @|com\ninjawarrior1337\abos\items\chocholate.java|326|344|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\chocholate.java|345|360|unlocalizedname|param|com.ninjawarrior1337.abos.items.chocholate|chocholate|(Ljava/lang/String;IFZ)V|unlocalizedname|0
+   Method End: chocholate(Ljava/lang/String;IFZ)V
+Class End  : com.ninjawarrior1337.abos.items.chocholate
+endProcessing "com\ninjawarrior1337\abos\items\chocholate.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\corn_syrup.java" md5: 838e19fab44793345e0dabab76434587
+Cache Hit!
+@|com\ninjawarrior1337\abos\items\corn_syrup.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.corn_syrup
+   @|com\ninjawarrior1337\abos\items\corn_syrup.java|130|140|corn_syrup|class|com.ninjawarrior1337.abos.items.corn_syrup
+   @|com\ninjawarrior1337\abos\items\corn_syrup.java|149|153|Item|class|net.minecraft.item.Item
+   Method Start: corn_syrup(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\corn_syrup.java|185|200|unlocalizedname|param|com.ninjawarrior1337.abos.items.corn_syrup|corn_syrup|(Ljava/lang/String;)V|unlocalizedname|0
+      @|com\ninjawarrior1337\abos\items\corn_syrup.java|167|177|corn_syrup|method|com.ninjawarrior1337.abos.items.corn_syrup|corn_syrup|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\corn_syrup.java|178|184|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\corn_syrup.java|221|239|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\corn_syrup.java|240|255|unlocalizedname|param|com.ninjawarrior1337.abos.items.corn_syrup|corn_syrup|(Ljava/lang/String;)V|unlocalizedname|0
+   Method End: corn_syrup(Ljava/lang/String;)V
+Class End  : com.ninjawarrior1337.abos.items.corn_syrup
+endProcessing "com\ninjawarrior1337\abos\items\corn_syrup.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\graham_cracker.java" md5: 0f3571f880c56308e7a13f98a04111c5
+Cache Hit!
+@|com\ninjawarrior1337\abos\items\graham_cracker.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.graham_cracker
+   @|com\ninjawarrior1337\abos\items\graham_cracker.java|208|222|graham_cracker|class|com.ninjawarrior1337.abos.items.graham_cracker
+   @|com\ninjawarrior1337\abos\items\graham_cracker.java|231|239|ItemFood|class|net.minecraft.item.ItemFood
+   Method Start: graham_cracker(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|275|290|unlocalizedname|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|unlocalizedname|0
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|296|302|amount|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|amount|1
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|310|320|saturation|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|saturation|2
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|330|340|isWolfFood|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|isWolfFood|3
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|358|365|effects|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|effects|4
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|253|267|graham_cracker|method|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|268|274|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|342|354|PotionEffect|class|net.minecraft.potion.PotionEffect
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|387|393|amount|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|amount|1
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|395|405|saturation|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|saturation|2
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|407|417|isWolfFood|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|isWolfFood|3
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|433|451|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\graham_cracker.java|452|467|unlocalizedname|param|com.ninjawarrior1337.abos.items.graham_cracker|graham_cracker|(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V|unlocalizedname|0
+   Method End: graham_cracker(Ljava/lang/String;IFZ[Lnet/minecraft/potion/PotionEffect;)V
+Class End  : com.ninjawarrior1337.abos.items.graham_cracker
+endProcessing "com\ninjawarrior1337\abos\items\graham_cracker.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\green_lightsaber.java" md5: 06c59b1dac0e98fe891d71ef223d6df9
+Cache Hit!
+@|com\ninjawarrior1337\abos\items\green_lightsaber.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.green_lightsaber
+   @|com\ninjawarrior1337\abos\items\green_lightsaber.java|125|141|green_lightsaber|class|com.ninjawarrior1337.abos.items.green_lightsaber
+   @|com\ninjawarrior1337\abos\items\green_lightsaber.java|150|159|ItemSword|class|net.minecraft.item.ItemSword
+   Method Start: green_lightsaber(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|197|212|unlocalizedname|param|com.ninjawarrior1337.abos.items.green_lightsaber|green_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|unlocalizedname|0
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|227|235|material|param|com.ninjawarrior1337.abos.items.green_lightsaber|green_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|173|189|green_lightsaber|method|com.ninjawarrior1337.abos.items.green_lightsaber|green_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|190|196|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|214|226|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|257|265|material|param|com.ninjawarrior1337.abos.items.green_lightsaber|green_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|281|299|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\green_lightsaber.java|300|315|unlocalizedname|param|com.ninjawarrior1337.abos.items.green_lightsaber|green_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|unlocalizedname|0
+   Method End: green_lightsaber(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : com.ninjawarrior1337.abos.items.green_lightsaber
+endProcessing "com\ninjawarrior1337\abos\items\green_lightsaber.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\peppe.java" md5: 827901c2ca4d417de15067a031a3cefb
+Cache Hit!
+@|com\ninjawarrior1337\abos\items\peppe.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.peppe
+   @|com\ninjawarrior1337\abos\items\peppe.java|88|93|peppe|class|com.ninjawarrior1337.abos.items.peppe
+   @|com\ninjawarrior1337\abos\items\peppe.java|102|106|Item|class|net.minecraft.item.Item
+   Method Start: peppe(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\peppe.java|133|148|unlocalizedname|param|com.ninjawarrior1337.abos.items.peppe|peppe|(Ljava/lang/String;)V|unlocalizedname|0
+      @|com\ninjawarrior1337\abos\items\peppe.java|120|125|peppe|method|com.ninjawarrior1337.abos.items.peppe|peppe|(Ljava/lang/String;)V
+      @|com\ninjawarrior1337\abos\items\peppe.java|126|132|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\peppe.java|169|187|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\peppe.java|188|203|unlocalizedname|param|com.ninjawarrior1337.abos.items.peppe|peppe|(Ljava/lang/String;)V|unlocalizedname|0
+   Method End: peppe(Ljava/lang/String;)V
+Class End  : com.ninjawarrior1337.abos.items.peppe
+endProcessing "com\ninjawarrior1337\abos\items\peppe.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\red_lightsaber.java" md5: 63a9a2557a1d825f3066fbfea4778b6b
+Cache Hit!
+@|com\ninjawarrior1337\abos\items\red_lightsaber.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.red_lightsaber
+   @|com\ninjawarrior1337\abos\items\red_lightsaber.java|125|139|red_lightsaber|class|com.ninjawarrior1337.abos.items.red_lightsaber
+   @|com\ninjawarrior1337\abos\items\red_lightsaber.java|148|157|ItemSword|class|net.minecraft.item.ItemSword
+   Method Start: red_lightsaber(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|193|208|unlocalizedname|param|com.ninjawarrior1337.abos.items.red_lightsaber|red_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|unlocalizedname|0
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|223|231|material|param|com.ninjawarrior1337.abos.items.red_lightsaber|red_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|171|185|red_lightsaber|method|com.ninjawarrior1337.abos.items.red_lightsaber|red_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|186|192|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|210|222|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|253|261|material|param|com.ninjawarrior1337.abos.items.red_lightsaber|red_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|277|295|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\red_lightsaber.java|296|311|unlocalizedname|param|com.ninjawarrior1337.abos.items.red_lightsaber|red_lightsaber|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|unlocalizedname|0
+   Method End: red_lightsaber(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : com.ninjawarrior1337.abos.items.red_lightsaber
+endProcessing "com\ninjawarrior1337\abos\items\red_lightsaber.java"
+
+startProcessing "com\ninjawarrior1337\abos\items\weed.java" md5: 87532ae67634ced979cbe11a188e70a8
+@|com\ninjawarrior1337\abos\items\weed.java|8|39|com.ninjawarrior1337.abos.items|package|com.ninjawarrior1337.abos.items|(file)
+Class Start: com.ninjawarrior1337.abos.items.weed
+   @|com\ninjawarrior1337\abos\items\weed.java|134|138|weed|class|com.ninjawarrior1337.abos.items.weed
+   @|com\ninjawarrior1337\abos\items\weed.java|147|155|ItemFood|class|net.minecraft.item.ItemFood
+   Method Start: weed(Ljava/lang/String;IFZ)V
+      @|com\ninjawarrior1337\abos\items\weed.java|181|196|unlocalizedname|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|unlocalizedname|0
+      @|com\ninjawarrior1337\abos\items\weed.java|202|208|amount|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|amount|1
+      @|com\ninjawarrior1337\abos\items\weed.java|216|226|saturation|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com\ninjawarrior1337\abos\items\weed.java|236|246|isWolfFood|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|isWolfFood|3
+      @|com\ninjawarrior1337\abos\items\weed.java|169|173|weed|method|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V
+      @|com\ninjawarrior1337\abos\items\weed.java|174|180|String|class|java.lang.String
+      @|com\ninjawarrior1337\abos\items\weed.java|268|274|amount|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|amount|1
+      @|com\ninjawarrior1337\abos\items\weed.java|276|286|saturation|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com\ninjawarrior1337\abos\items\weed.java|288|298|isWolfFood|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|isWolfFood|3
+      @|com\ninjawarrior1337\abos\items\weed.java|314|332|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ninjawarrior1337\abos\items\weed.java|333|348|unlocalizedname|param|com.ninjawarrior1337.abos.items.weed|weed|(Ljava/lang/String;IFZ)V|unlocalizedname|0
+   Method End: weed(Ljava/lang/String;IFZ)V
+Class End  : com.ninjawarrior1337.abos.items.weed
+endProcessing "com\ninjawarrior1337\abos\items\weed.java"
+

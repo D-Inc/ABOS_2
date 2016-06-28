@@ -1,0 +1,16 @@
+[
+{
+  "modid": "abos
+  "name": "ABOS(A Bunch Of Stuff)",
+  "description": "Bryan = 9+10 = 21",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "99.168.17.41:943"
+  "updateUrl": "",
+  "authorList": ["ninjawarrior1337"],
+  "credits": "Mr Crayfish for modding tutorials and Pahimar for making the original Lets Mod Reboot Serries"
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
